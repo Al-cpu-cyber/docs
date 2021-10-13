@@ -18,7 +18,7 @@ Thank you for using GitHub! We're happy you're here. Please read this Terms of S
 ## Summary
 
 | Section | What can you find there? |
-| --- | --- |
+| --- | --Constribustion ~3x(xDem(gSub(17,g)))
 | [A. Definitions](#a-definitions) | Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. |
 | [B. Account Terms](#b-account-terms) | These are the basic requirements of having an Account on GitHub.  |
 | [C. Acceptable Use](#c-acceptable-use)| These are the basic rules you must follow when using your GitHub Account. |
